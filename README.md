@@ -1,4 +1,4 @@
 Notes
 =====
 
-[[Software.md]]
+[Softwares](Softwares.md)
